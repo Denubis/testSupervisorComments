@@ -8,6 +8,15 @@ Veritatis necessitatibus labore ut animi omnis. Magni est ea magnam eveniet. Arc
 
 Non quia cum dolor. Distinctio reprehenderit commodi asperiores sed nobis accusantium. Possimus non exercitationem qui blanditiis. Atque saepe molestias vero dolor.
 
-Vero eos maxime officiis sit. Aliquam eos accusamus consequuntur. Necessitatibus vel perferendis qui et facere dicta qui dolorem.
+---
+# Did this chapter last
+---
+
+Vero eos maxime officiis sit. Aliquam eos accusamus consequuntur. 
+---
+# Inline.
+---
+Necessitatibus vel perferendis qui et facere dicta qui dolorem.
+
 
 Dolorem et quisquam non sint quibusdam id. Et a veniam natus et sed. Cum laborum vel tempore placeat in sit quod quo.
